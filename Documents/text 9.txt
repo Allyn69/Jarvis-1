@@ -1,0 +1,5 @@
+Bump the version of the package being built
+
+
+https://gitlab.com/Allyn69/kali-ci-pipeline/commit/872e2ef899ae2b1d966f84cf0a7391b2a79ac28e
+
